@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  font-family: 'Roboto Mono', monospace;
+  background-color: #FFFBEB;
+  text-align:center;
+}
+
+.skill-row{
+
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px;
+  width: 50%;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+  font-size: 5.652em;/*90px*/
+}
+h2{
+  line-height: 200%;
+  font-weight: normal;
+  color: #66BFBF;
+  font-size: 2.5rem;
+}
+h3{
+
+  color:  #11999E;
+}
+.top{
+  margin-left: 0px;
+  background-color: #ECF2FF;
+  position: relative;
+  padding: 100px;
+}
+a{
+  color:  #11999E
+}
+.broccoli{
+  float: left;
+  margin-right: 30px;
+
+  width: 25%;
+}
+.bacon{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+
+.cloud1{
+  position: relative;
+  left: 200px;
+}
+.cloud2{
+  position: absolute;
+}
+.pro{
+  text-decoration: underline;
+}

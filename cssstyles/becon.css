@@ -1,0 +1,26 @@
+body{
+  background-color: orange;
+}
+h1{
+  color : khaki;
+  font-style: oblique;
+  font-variant: small-caps;
+  font-family: cursive;
+}
+p{
+  color: green;
+}
+.bacon{
+  background-color: red;
+}
+.broccoli
+{
+  background-color: green;
+}
+img:hover{
+  background: gold;
+  border-radius: 50%;
+}
+#heads{
+  color:blue;
+}
